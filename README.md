@@ -1,1 +1,2 @@
-# foca
+## foca
+The Foca Food Organizer is an app developed using Swift and Storyboard, designed to help users manage their food supplies by reminding them of upcoming expiration dates. The app is intended to help prevent food waste by allowing users to track the shelf life of different food items. It sends notifications as the expiration date approaches, ensuring that users can consume or properly manage their food before it spoils. The app offers a user-friendly interface, making it easy to input and organize food items, set expiration dates, and receive timely reminders.
